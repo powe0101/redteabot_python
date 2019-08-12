@@ -4,7 +4,7 @@ import telegram
 
 from bs4 import BeautifulSoup
 
-bot = telegram.Bot(token = '532766143:AAGoIJkrIOW7fab-il-5iDEGJmux8Q3VoOY')
+bot = telegram.Bot(token = 'IOW7fab-il-5iDEGJmux8Q3VoOY')
 chatID = '@redtea_bot'
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
